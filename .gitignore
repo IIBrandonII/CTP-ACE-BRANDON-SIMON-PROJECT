@@ -1,0 +1,20 @@
+# Kaggle credentials - never commit
+kaggle.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Kaggle downloads - too big for GitHub, each person runs kraggle_data.py
+kraggle_data/

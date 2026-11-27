@@ -1,6 +1,7 @@
 # Kaggle credentials - never commit
 kaggle.json
 .env
+!.env.example
 
 # Python
 __pycache__/
